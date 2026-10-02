@@ -17,9 +17,6 @@ The bird is controlled using a physical push button, while the ESP32 handles the
 
 <p align="center"> <img src="img2.jpg" width="70%"> </p>
 
-### 🎥 Demo Video
-
-![](demo.mp4)
 
 ---
 
