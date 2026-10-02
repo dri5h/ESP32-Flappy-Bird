@@ -15,11 +15,11 @@ The bird is controlled using a physical push button, while the ESP32 handles the
 
 ### 🔧 Hardware
 
-![Hardware Setup](img2.jpg)
+<p align="center"> <img src="img2.jpg" width="70%"> </p>
 
 ### 🎥 Demo Video
 
-<video src="demo.mp4" controls width="700"></video>
+[<video src="demo.mp4" controls width="700"></video>](https://github.com/dri5h/esp32-Flappy-Bird/blob/main/demo.mp4)
 
 ---
 
