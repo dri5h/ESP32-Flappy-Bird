@@ -20,7 +20,10 @@ The bird is controlled using a physical push button, while the ESP32 handles the
 
 ### 🎥 Demo Video
 
-[▶️ Watch the gameplay video](demo.mp4)
+### 🎥 Demo Video
+
+<video src="demo.mp4" controls width="700"></video>
+
 
 ---
 
